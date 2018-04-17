@@ -1,0 +1,14 @@
+<?php
+
+/**
+ * Implements hook_theme().
+ */
+function page_facebook_iframe_theme() {
+    return array(
+        'page_facebook_iframe' => array(
+            'variables' => array(
+                'url' => NULL
+            ),
+        ),
+    );
+}

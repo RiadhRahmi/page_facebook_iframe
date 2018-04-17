@@ -1,0 +1,7 @@
+name: Page Facebook Formatter
+type: module
+description: 'generate Page facebook iframe from link field'
+core: 8.x
+package: Custom
+dependencies:
+  - field
