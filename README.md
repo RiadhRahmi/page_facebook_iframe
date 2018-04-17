@@ -1,2 +1,2 @@
 # page_facebook_iframe
-Generate Page facebook iframe from link field
+Field Formatter to generate Page facebook iframe from link field
